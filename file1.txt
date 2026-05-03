@@ -1,3 +1,4 @@
 File 1 initial content
 DevB change file1
 DevA change file1
+DevB extra change
